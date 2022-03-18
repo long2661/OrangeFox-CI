@@ -1,11 +1,11 @@
 #!/bin/bash
 
 # Device
-export FOX_BRANCH="fox_9.0"
-export DT_LINK="https://gitlab.com/OrangeFox/device/beryllium.git -b fox_9.0"
+export FOX_BRANCH="fox_10.0"
+export DT_LINK="https://github.com/long266/android_device_vsmart_willowpro.git -b 2021-8-10"
 
-export DEVICE="beryllium"
-export OEM="xiaomi"
+export DEVICE="willowpro"
+export OEM="vsmart"
 export TARGET="recoveryimage"
 
 export OUTPUT="OrangeFox*.zip"
