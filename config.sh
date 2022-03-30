@@ -2,9 +2,9 @@
 
 # Device
 export FOX_BRANCH="fox_10.0"
-export DT_LINK="https://github.com/long266/android_device_vsmart_willowpro.git -b 2021-8-10"
+export DT_LINK="https://github.com/long266/android_device_vsmart_casuarina-twrp.git -b ofox-10"
 
-export DEVICE="willowpro"
+export DEVICE="casuarina"
 export OEM="vsmart"
 export TARGET="recoveryimage"
 
